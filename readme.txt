@@ -1,5 +1,5 @@
 === RolesMenus ===
-Contributors: sarath
+Contributors: sarath.vs
 Donate link:http://www.bgiplc.com/
 Tags: menus, headermenu , menu customization
 Requires at least: 3.1
